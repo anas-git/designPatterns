@@ -1,0 +1,4 @@
+=> Install NETBEANS
+=> Create Java development project
+=> Place the files in src folder in net beans
+=> And Run Project
